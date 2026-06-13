@@ -1,2 +1,2 @@
 # Ern1st
-NewHand
+NewHand，创建这个仓库的时候是个纯新手，完全不懂任何代码，权当留纪念了XD
